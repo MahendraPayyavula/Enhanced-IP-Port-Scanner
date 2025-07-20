@@ -1,7 +1,5 @@
 # Enhanced-IP-Port-Scanner
 
-Here's a README for your Enhanced IP Range Port Scanner:
-
 🚀 Enhanced IP Range Port Scanner
 This is a Python-based graphical user interface (GUI) tool for scanning IP address ranges for open ports. It supports specifying a range of IP addresses and multiple ports (either individual or ranges). Additionally, for common web ports (80 and 443), it attempts to retrieve a preview of the HTML content, offering basic service banner identification. All scan results are saved to a CSV file and separate text files for open and closed ports.
 
